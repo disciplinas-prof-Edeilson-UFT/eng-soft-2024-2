@@ -15,7 +15,7 @@
 - Sophia Ribeiro Prado
 #### Projeto: 
 Segura Cadeira
-[Link do repositório] (https://github.com/daniserafs/SeguraCadeira)
+[Link do repositório](https://github.com/daniserafs/SeguraCadeira)
 
 ### Grupo 2:
 
