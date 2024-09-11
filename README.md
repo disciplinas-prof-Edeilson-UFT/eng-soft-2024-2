@@ -7,6 +7,16 @@
 
 ### Grupo 1:
 
+#### Membros:
+- Daniela Serafim Soares
+- Victor Emanuel da Silva Campelo
+- Raphael Sales de Souza
+- Anna Laura Castro Sousa
+- Sophia Ribeiro Prado
+#### Projeto: 
+Segura Cadeira
+[Link do repositório] (https://github.com/daniserafs/SeguraCadeira)
+
 ### Grupo 2:
 
 ### Grupo 3:
