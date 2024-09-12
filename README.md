@@ -36,4 +36,35 @@ Rede social de desenvolvedores de jogos (Gamyx)
 
 [Link do repositório](https://github.com/jessilver/Engenharia-de-Software-Gamyx)
 
-### Grupo 4:
+<hr>
+
+## Grupo 4: 
+
+| <img src="https://github.com/dallylademoraes/Express-loja-online/blob/main/fotos/logo-png.png" alt="Logo do Projeto" width="1500"/> | <h2><a href="https://github.com/dallylademoraes/Express-loja-online">Express.com - Marketplace</a></h2><br> O **Express.com** é uma plataforma inovadora focada em tecnologia, projetada para facilitar a compra e venda de produtos eletrônicos. Com uma interface moderna e intuitiva, o projeto oferece ferramentas avançadas que garantem uma experiência de compra segura e eficiente para os usuários. |
+| ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+
+
+
+## Repositório:
+[Express.com - Ir ao Repositório](https://github.com/dallylademoraes/Express-loja-online)
+
+## Tecnologias Utilizadas:
+- HTML5
+- CSS
+- JavaScript
+- PHP
+- Banco de Dados MySQL
+
+## Componentes do Projeto:
+
+| Nome                              | GitHub                                               |
+|----------------------------------- |----------------------------------------------------- |
+| Luís Gustavo Alves Bezerra         | [lu1pinho](https://github.com/lu1pinho)              |
+| Mara Emanuella Carvalho Martins    | [maraemanuella](https://github.com/maraemanuella)    |
+| Neci Oneides da Silva              | [gallineci](https://github.com/gallineci)            |
+| Heloisa Rolins Ribeiro             | [h-rolins](https://github.com/h-rolins)              |
+| Dallyla de Moraes Sousa            | [dallylademoraes](https://github.com/dallylademoraes)|
+
+<hr>
+
