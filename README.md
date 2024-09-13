@@ -42,7 +42,7 @@ GreenBoard é o projeto de um de quadro Kanban simples e mínimo para de fato au
 | ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 ## Tecnologias Utilizadas:
 
-- **[XAMPP 3.3.0](https://www.djangoproject.com/start/):** Para execular o PHP.
+- **[XAMPP](https://www.djangoproject.com/start/):** Para execular o PHP.
 - **PHP:** Para o backend e lógica da aplicação.
 - **HTML:** Estruturação do conteúdo e das páginas web.
 - **CSS:** Estilização das páginas web para uma melhor experiência do usuário.
