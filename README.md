@@ -38,14 +38,28 @@ GreenBoard é o projeto de um de quadro Kanban simples e mínimo para de fato au
 ---
 
 ### Grupo 3:
-| <img src="https://github.com/user-attachments/assets/c108c69e-4bf3-41c1-8761-9dd62dee87de" alt="Logo do Projeto" width="1500"/> | <h2><a href="https://github.com/jessilver/Engenharia-de-Software-Gamyx">GAMYX</a></h2><br> GAMYX é uma plataforma incrível feita especialmente para desenvolvedores de jogos. É um lugar onde você pode se conectar e interagir com outros criadores, compartilhar ideias e trocar experiências. Aqui, você encontra um espaço para postar seus projetos, receber feedback da comunidade e visualizar o que outros criadores estão fazendo. Se você está procurando um lugar para crescer na área de desenvolvimento de jogos e se conectar com outros profissionais, o GAMYX é o lugar certo para você! |
+| <img src="https://github.com/user-attachments/assets/c108c69e-4bf3-41c1-8761-9dd62dee87de" alt="Logo do Projeto" width="1500"/> | <h2><a href="https://github.com/jessilver/Engenharia-de-Software-Gamyx">GAMYX</a></h2><br> GAMYX é uma plataforma incrível feita especialmente para desenvolvedores de jogos. É um lugar onde você pode se conectar e interagir com outros criadores, compartilhar ideias e trocar experiências. Aqui, você encontra um espaço para postar seus projetos, receber feedback da comunidade e visualizar o que outros criadores estão fazendo. Se você está procurando um lugar para crescer na área de desenvolvimento de jogos e se conectar com outros profissionais, a GAMYX é o lugar certo para você! |
 | ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+## Tecnologias Utilizadas:
 
-#### Membros:
-- Arthur Lima Duarte
-- Gabriel Fernandes Zamora
-- Jesse Eliseu Nunes Da Silva
-- Jônatas De Sousa Madeira
+- **[XAMPP 3.3.0](https://www.djangoproject.com/start/):** Para execular o PHP.
+- **PHP:** Para o backend e lógica da aplicação.
+- **HTML:** Estruturação do conteúdo e das páginas web.
+- **CSS:** Estilização das páginas web para uma melhor experiência do usuário.
+- **Java Script:** (FRONT END) Estilização das páginas web para uma melhor experiência do usuário.
+- **[BOOTSTRAP 4](https://getbootstrap.com/docs/4.0/getting-started/introduction/):** Estilização das páginas web para uma melhor experiência do usuário.
+- **Git:** Controle de versão do código.
+- **GitHub:** Hospedagem do repositório remoto.
+- **Gitflow:** Modelo de ramificação para organização do desenvolvimento. 
+
+## Componentes do Projeto:
+
+| Nome                               | GitHub                                               |
+|----------------------------------- |----------------------------------------------------- |
+| Arthur Lima Duarte                 | [lu1pinho](https://github.com/lu1pinho)              |
+| Gabriel Fernades Zamora            | [maraemanuella](https://github.com/maraemanuella)    |
+| Jessé Eliseu Nunes da Silvaa       | [gallineci](https://github.com/gallineci)            |
+| Jonatas de Sousa Madeira           | [h-rolins](https://github.com/h-rolins)              |
 
 #### Projeto:
 Rede social de desenvolvedores de jogos (Gamyx)
