@@ -64,6 +64,8 @@ GreenBoard é o projeto de um de quadro Kanban simples e mínimo para de fato au
 ## Repositório:
 [GAMYX - Ir ao Repositório](https://github.com/jessilver/Engenharia-de-Software-Gamyx)
 
+<hr>
+
 ## Grupo 4: 
 
 | <img src="https://github.com/dallylademoraes/Express-loja-online/blob/main/fotos/logo-png.png" alt="Logo do Projeto" width="1500"/> | <h2><a href="https://github.com/dallylademoraes/Express-loja-online">Express.com - Marketplace</a></h2><br> O **Express.com** é uma plataforma inovadora focada em tecnologia, projetada para facilitar a compra e venda de produtos eletrônicos. Com uma interface moderna e intuitiva, o projeto oferece ferramentas avançadas que garantem uma experiência de compra segura e eficiente para os usuários. |
