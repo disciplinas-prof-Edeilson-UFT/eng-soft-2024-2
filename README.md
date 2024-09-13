@@ -38,6 +38,8 @@ GreenBoard é o projeto de um de quadro Kanban simples e mínimo para de fato au
 ---
 
 ### Grupo 3:
+| <img src="[https://github.com/dallylademoraes/Express-loja-online/blob/main/fotos/logo-png.png](https://github.com/user-attachments/assets/c108c69e-4bf3-41c1-8761-9dd62dee87de)" alt="Logo do Projeto" width="1500"/> | <h2><a href="https://github.com/dallylademoraes/Express-loja-online">Express.com - Marketplace</a></h2><br> O **Express.com** é uma plataforma inovadora focada em tecnologia, projetada para facilitar a compra e venda de produtos eletrônicos. Com uma interface moderna e intuitiva, o projeto oferece ferramentas avançadas que garantem uma experiência de compra segura e eficiente para os usuários. |
+| ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 #### Membros:
 - Arthur Lima Duarte
