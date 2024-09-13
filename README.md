@@ -25,7 +25,7 @@ Rede social de desenvolvedores de jogos (Gamyx)
 ### Grupo 4:
 
 ### Grupo 5: 
-![pet-shop-logo](https://github.com/user-attachments/assets/45594a1d-b3e6-4a44-99e4-4e622de6e2b0)
+![pet-shop-logo](https://github.com/user-attachments/assets/85318b88-2020-46fd-b953-6ad7bd87b1d6)
 
 #### Descrição do produto:
 O Mundo Pet consiste em uma plataforma online para petshops, com funcionalidades de registro e acesso para clientes e administradores. O sistema oferece um catálogo abrangente de produtos e serviços, permitindo que os clientes agendem serviços e adicionem itens ao carrinho de compras. A plataforma também integra um sistema de pagamento online, garantindo uma experiência de compra prática e segura.
