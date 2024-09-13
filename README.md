@@ -54,19 +54,15 @@ GreenBoard é o projeto de um de quadro Kanban simples e mínimo para de fato au
 
 ## Componentes do Projeto:
 
-| Nome                               | GitHub                                               |
-|----------------------------------- |----------------------------------------------------- |
-| Arthur Lima Duarte                 | [lu1pinho](https://github.com/lu1pinho)              |
-| Gabriel Fernades Zamora            | [maraemanuella](https://github.com/maraemanuella)    |
-| Jessé Eliseu Nunes da Silvaa       | [gallineci](https://github.com/gallineci)            |
-| Jonatas de Sousa Madeira           | [h-rolins](https://github.com/h-rolins)              |
+| Nome                               | GitHub                                                       |
+|----------------------------------- |------------------------------------------------------------- |
+| Arthur Lima Duarte                 | [Arthutstuts96](https://github.com/Arthutstuts96)            |
+| Gabriel Fernades Zamora            | [GFernandesZ](https://github.com/GFernandesZ)                |
+| Jessé Eliseu Nunes da Silvaa       | [jessilver](https://github.com/jessilver)                    |
+| Jonatas de Sousa Madeira           | [MellloJ](https://github.com/MellloJ)                        |
 
-#### Projeto:
-Rede social de desenvolvedores de jogos (Gamyx)
-
-[Link do repositório](https://github.com/jessilver/Engenharia-de-Software-Gamyx)
-
-<hr>
+## Repositório:
+[GAMYX - Ir ao Repositório](https://github.com/jessilver/Engenharia-de-Software-Gamyx)
 
 ## Grupo 4: 
 
