@@ -113,3 +113,22 @@ O Mundo Pet consiste em uma plataforma online para petshops, com funcionalidades
 | João Pedro Ribeiro Dias Moraes                                | [@Vicentolah17](https://github.com/Vicentolah17)         |
 | Tharcio Santana                                               | [@Andr206](https://github.com/Andr206)                   |
 | [Link do repositório](https://github.com/lauroolim/mundo-pet) |                                                          |
+
+<hr>
+
+
+### Grupo 7: 
+
+
+#### Descrição do projeto:
+O projeto consiste em um site de aluguel de carros acessível a diferentes perfis de clientes, como turistas, moradores locais e empresas. O site permitirá que os usuários atuem em três papéis distintos: cliente, funcionário e administrador. Cada papel terá permissões e atividades específicas, incluindo alugar veículos, gerenciar a frota, administrar aluguéis e fornecer feedbacks. O sistema buscará oferecer uma experiência de usuário eficiente e intuitiva, suportada por uma arquitetura segura e escalável.
+</br>
+</br>
+
+| Nome                                                          | Github                                                   |
+| ------------------------------------------------------------- | -------------------------------------------------------- |
+| Victhor Cabral Magalhães                                      | [@VicthorCM](https://github.com/VicthorCM)               |
+| Pedro Lucas Moreira Pinto                                     | [@Swampertian](https://github.com/Swampertian) |
+| João Vitor Reis Días                                          | [@joaovitro99](https://github.com/joaovitro99)             |
+| Mayconn Cardoso Soares                                        | [@Mayconncs](https://github.com/Mayconncs)         |
+| [Link do repositório](https://github.com/joaovitro99/Aluguel-de-carros.git) |                                                          |
