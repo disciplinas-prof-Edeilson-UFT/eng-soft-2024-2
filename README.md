@@ -85,3 +85,21 @@ O Mundo Pet consiste em uma plataforma online para petshops, com funcionalidades
 | João Pedro Ribeiro Dias Moraes                                | [@Vicentolah17](https://github.com/Vicentolah17)         |
 | Tharcio Santana                                               | [@Andr206](https://github.com/Andr206)                   |
 | [Link do repositório](https://github.com/lauroolim/mundo-pet) |                                                          |
+
+### Grupo 8: 
+![TavolaRedonda](https://github.com/user-attachments/assets/2b6aeb7b-abda-4dab-81fb-d3cbf8b3ac5e)
+
+#### Descrição do produto:
+Távola Redonda é um projeto destinado ao público de pessoas que jogam RPG (Roleplay gaming) será uma alternativa mais fácil e pratica para a criação de mesas e personagens para os jogadores, reunindo alguns sistemas, facilitando assim, o decorrer de criação pre-campanha, que costuma ser a parte mais demorada de um RPG.
+</br>
+</br>
+
+| Nome                                                          | Github                                                   |
+| ------------------------------------------------------------- | -------------------------------------------------------- |
+| Yuri Barbosa Takahashi                                        | [@comatic0](https://github.com/comatic0)                 |
+| Henrique Wendler Gomes                                        | [@Henrique-wendler](https://github.com/Henrique-wendler) |
+| Vitor Leal Ferreira                                           | [@squidleeal](https://github.com/squidleeal)             |
+| Thiago Soares Ribeiro Nunes de Carvalho                       | [@Soares314](https://github.com/Soares314)               |
+| Emanuel Badaró Fonseca                                        | [@AlunEmanuel](https://github.com/AlunEmanuel)           |
+| [Link do repositório](https://github.com/comatic0/tavola-redonda) |                                                          |
+
