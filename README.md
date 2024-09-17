@@ -86,7 +86,7 @@ GreenBoard é o projeto de um de quadro Kanban simples e mínimo para de fato au
 
 ## Componentes do Projeto:
 
-| Nome                              | GitHub                                               |
+| Nome                               | GitHub                                               |
 |----------------------------------- |----------------------------------------------------- |
 | Luís Gustavo Alves Bezerra         | [lu1pinho](https://github.com/lu1pinho)              |
 | Mara Emanuella Carvalho Martins    | [maraemanuella](https://github.com/maraemanuella)    |
@@ -116,19 +116,33 @@ O Mundo Pet consiste em uma plataforma online para petshops, com funcionalidades
 
 <hr>
 
-
 ### Grupo 7: 
-
 
 #### Descrição do projeto:
 O projeto consiste em um site de aluguel de carros acessível a diferentes perfis de clientes, como turistas, moradores locais e empresas. O site permitirá que os usuários atuem em três papéis distintos: cliente, funcionário e administrador. Cada papel terá permissões e atividades específicas, incluindo alugar veículos, gerenciar a frota, administrar aluguéis e fornecer feedbacks. O sistema buscará oferecer uma experiência de usuário eficiente e intuitiva, suportada por uma arquitetura segura e escalável.
-</br>
-</br>
 
 | Nome                                                          | Github                                                   |
 | ------------------------------------------------------------- | -------------------------------------------------------- |
 | Victhor Cabral Magalhães                                      | [@VicthorCM](https://github.com/VicthorCM)               |
-| Pedro Lucas Moreira Pinto                                     | [@Swampertian](https://github.com/Swampertian) |
-| João Vitor Reis Días                                          | [@joaovitro99](https://github.com/joaovitro99)             |
-| Mayconn Cardoso Soares                                        | [@Mayconncs](https://github.com/Mayconncs)         |
-| [Link do repositório](https://github.com/joaovitro99/Aluguel-de-carros.git) |                                                          |
+| Pedro Lucas Moreira Pinto                                     | [@Swampertian](https://github.com/Swampertian)           |
+| João Vitor Reis Días                                          | [@joaovitro99](https://github.com/joaovitro99)           |
+| Mayconn Cardoso Soares                                        | [@Mayconncs](https://github.com/Mayconncs)               |
+| [Link do repositório](https://github.com/joaovitro99/Aluguel-de-carros.git) |                                            |
+
+<hr>
+
+### Grupo 8: 
+![TavolaRedonda](https://github.com/user-attachments/assets/2b6aeb7b-abda-4dab-81fb-d3cbf8b3ac5e)
+
+#### Descrição do produto:
+Távola Redonda é um projeto destinado ao público de pessoas que jogam RPG (Roleplay gaming) será uma alternativa mais fácil e pratica para a criação de mesas e personagens para os jogadores, reunindo alguns sistemas, facilitando assim, o decorrer de criação pre-campanha, que costuma ser a parte mais demorada de um RPG.
+</br>
+</br>
+| Nome                                                          | Github                                                   |
+| Yuri Barbosa Takahashi                                        | [@comatic0](https://github.com/comatic0)                 |
+| Henrique Wendler Gomes                                        | [@Henrique-wendler](https://github.com/Henrique-wendler) |
+| Vitor Leal Ferreira                                           | [@squidleeal](https://github.com/squidleeal)             |
+| Thiago Soares Ribeiro Nunes de Carvalho                       | [@Soares314](https://github.com/Soares314)               |
+| Emanuel Badaró Fonseca                                        | [@AlunEmanuel](https://github.com/AlunEmanuel)           |
+| [Link do repositório](https://github.com/comatic0/tavola-redonda) |                                                      |
+
