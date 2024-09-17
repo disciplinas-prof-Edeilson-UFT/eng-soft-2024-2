@@ -20,21 +20,49 @@ Desenvolver uma plataforma de reserva de restaurantes que conecta estabeleciment
 
 [Link do repositório](https://github.com/daniserafs/SeguraCadeira)
 
-
 ### Grupo 2:
+#### Descrição
+<img src="https://media.discordapp.net/attachments/1283862353993138216/1283862418262327350/GreenBoard_20240901_191003_0000.png?ex=66e4898d&is=66e3380d&hm=a481fa88c0f1671f93fc5308ab012985ecf22e6af21d1e218627c3c1784cc9b1&=&format=webp&quality=lossless" alt="Logo" width="250" height="250"/>
+
+GreenBoard é o projeto de um de quadro Kanban simples e mínimo para de fato aumentar sua produtividade.
+
+#### Equipe
+| Nome | Github |
+| ------------------------- | ------------------------------------------ |
+| José Lucas Carvalho Silva | [@lalisalix](https://github.com/lalisalix) |
+| Iago Arruda Faria | [@fariaiago](https://github.com/fariaiago) |
+| Daniel Vinicius da Silva | [@DanielVinicius00](https://github.com/DanielVinicius00) |
+| Ana Júlia Campos Vieira | [@Ana4Julia](https://github.com/Ana4Julia) |
+| João Victor da Mota Sousa | [@JaumMota](https://github.com/JaumMota) |
+| [Link para repositório do projeto](https://github.com/EngSoftKanban/GreenBoard) |
+---
 
 ### Grupo 3:
+| <img src="https://github.com/user-attachments/assets/c108c69e-4bf3-41c1-8761-9dd62dee87de" alt="Logo do Projeto" width="1500"/> | <h2><a href="https://github.com/jessilver/Engenharia-de-Software-Gamyx">GAMYX</a></h2><br> GAMYX é uma plataforma incrível feita especialmente para desenvolvedores de jogos. É um lugar onde você pode se conectar e interagir com outros criadores, compartilhar ideias e trocar experiências. Aqui, você encontra um espaço para postar seus projetos, receber feedback da comunidade e visualizar o que outros criadores estão fazendo. Se você está procurando um lugar para crescer na área de desenvolvimento de jogos e se conectar com outros profissionais, a GAMYX é o lugar certo para você! |
+| ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+## Tecnologias Utilizadas:
 
-#### Membros:
-- Arthur Lima Duarte
-- Gabriel Fernandes Zamora
-- Jesse Eliseu Nunes Da Silva
-- Jônatas De Sousa Madeira
+- **[XAMPP](https://www.djangoproject.com/start/):** Para execular o PHP.
+- **PHP:** Para o backend e lógica da aplicação.
+- **HTML:** Estruturação do conteúdo e das páginas web.
+- **CSS:** Estilização das páginas web para uma melhor experiência do usuário.
+- **Java Script:** (FRONT END) Estilização das páginas web para uma melhor experiência do usuário.
+- **[BOOTSTRAP 4](https://getbootstrap.com/docs/4.0/getting-started/introduction/):** Estilização das páginas web para uma melhor experiência do usuário.
+- **Git:** Controle de versão do código.
+- **GitHub:** Hospedagem do repositório remoto.
+- **Gitflow:** Modelo de ramificação para organização do desenvolvimento. 
 
-#### Projeto:
-Rede social de desenvolvedores de jogos (Gamyx)
+## Componentes do Projeto:
 
-[Link do repositório](https://github.com/jessilver/Engenharia-de-Software-Gamyx)
+| Nome                               | GitHub                                                       |
+|----------------------------------- |------------------------------------------------------------- |
+| Arthur Lima Duarte                 | [Arthutstuts96](https://github.com/Arthutstuts96)            |
+| Gabriel Fernades Zamora            | [GFernandesZ](https://github.com/GFernandesZ)                |
+| Jessé Eliseu Nunes da Silvaa       | [jessilver](https://github.com/jessilver)                    |
+| Jonatas de Sousa Madeira           | [MellloJ](https://github.com/MellloJ)                        |
+
+## Repositório:
+[GAMYX - Ir ao Repositório](https://github.com/jessilver/Engenharia-de-Software-Gamyx)
 
 <hr>
 
@@ -58,7 +86,7 @@ Rede social de desenvolvedores de jogos (Gamyx)
 
 ## Componentes do Projeto:
 
-| Nome                              | GitHub                                               |
+| Nome                               | GitHub                                               |
 |----------------------------------- |----------------------------------------------------- |
 | Luís Gustavo Alves Bezerra         | [lu1pinho](https://github.com/lu1pinho)              |
 | Mara Emanuella Carvalho Martins    | [maraemanuella](https://github.com/maraemanuella)    |
@@ -88,6 +116,21 @@ O Mundo Pet consiste em uma plataforma online para petshops, com funcionalidades
 
 <hr>
 
+### Grupo 7: 
+
+#### Descrição do projeto:
+O projeto consiste em um site de aluguel de carros acessível a diferentes perfis de clientes, como turistas, moradores locais e empresas. O site permitirá que os usuários atuem em três papéis distintos: cliente, funcionário e administrador. Cada papel terá permissões e atividades específicas, incluindo alugar veículos, gerenciar a frota, administrar aluguéis e fornecer feedbacks. O sistema buscará oferecer uma experiência de usuário eficiente e intuitiva, suportada por uma arquitetura segura e escalável.
+
+| Nome                                                          | Github                                                   |
+| ------------------------------------------------------------- | -------------------------------------------------------- |
+| Victhor Cabral Magalhães                                      | [@VicthorCM](https://github.com/VicthorCM)               |
+| Pedro Lucas Moreira Pinto                                     | [@Swampertian](https://github.com/Swampertian)           |
+| João Vitor Reis Días                                          | [@joaovitro99](https://github.com/joaovitro99)           |
+| Mayconn Cardoso Soares                                        | [@Mayconncs](https://github.com/Mayconncs)               |
+| [Link do repositório](https://github.com/joaovitro99/Aluguel-de-carros.git) |                                            |
+
+<hr>
+
 ### Grupo 8: 
 ![TavolaRedonda](https://github.com/user-attachments/assets/2b6aeb7b-abda-4dab-81fb-d3cbf8b3ac5e)
 
@@ -95,13 +138,11 @@ O Mundo Pet consiste em uma plataforma online para petshops, com funcionalidades
 Távola Redonda é um projeto destinado ao público de pessoas que jogam RPG (Roleplay gaming) será uma alternativa mais fácil e pratica para a criação de mesas e personagens para os jogadores, reunindo alguns sistemas, facilitando assim, o decorrer de criação pre-campanha, que costuma ser a parte mais demorada de um RPG.
 </br>
 </br>
-
 | Nome                                                          | Github                                                   |
-| ------------------------------------------------------------- | -------------------------------------------------------- |
 | Yuri Barbosa Takahashi                                        | [@comatic0](https://github.com/comatic0)                 |
 | Henrique Wendler Gomes                                        | [@Henrique-wendler](https://github.com/Henrique-wendler) |
 | Vitor Leal Ferreira                                           | [@squidleeal](https://github.com/squidleeal)             |
 | Thiago Soares Ribeiro Nunes de Carvalho                       | [@Soares314](https://github.com/Soares314)               |
 | Emanuel Badaró Fonseca                                        | [@AlunEmanuel](https://github.com/AlunEmanuel)           |
-| [Link do repositório](https://github.com/comatic0/tavola-redonda) |                                                          |
+| [Link do repositório](https://github.com/comatic0/tavola-redonda) |                                                      |
 
