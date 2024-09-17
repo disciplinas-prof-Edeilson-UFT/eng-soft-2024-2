@@ -86,6 +86,8 @@ O Mundo Pet consiste em uma plataforma online para petshops, com funcionalidades
 | Tharcio Santana                                               | [@Andr206](https://github.com/Andr206)                   |
 | [Link do repositório](https://github.com/lauroolim/mundo-pet) |                                                          |
 
+<hr>
+
 ### Grupo 8: 
 ![TavolaRedonda](https://github.com/user-attachments/assets/2b6aeb7b-abda-4dab-81fb-d3cbf8b3ac5e)
 
