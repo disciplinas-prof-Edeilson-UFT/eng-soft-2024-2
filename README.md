@@ -139,6 +139,7 @@ Távola Redonda é um projeto destinado ao público de pessoas que jogam RPG (Ro
 </br>
 </br>
 | Nome                                                          | Github                                                   |
+| ------------------------------------------------------------- | -------------------------------------------------------- |
 | Yuri Barbosa Takahashi                                        | [@comatic0](https://github.com/comatic0)                 |
 | Henrique Wendler Gomes                                        | [@Henrique-wendler](https://github.com/Henrique-wendler) |
 | Vitor Leal Ferreira                                           | [@squidleeal](https://github.com/squidleeal)             |
