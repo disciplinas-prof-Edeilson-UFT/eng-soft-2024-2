@@ -108,10 +108,10 @@ O Mundo Pet consiste em uma plataforma online para petshops, com funcionalidades
 | Nome                                                          | Github                                                   |
 | ------------------------------------------------------------- | -------------------------------------------------------- |
 | Lauro Oliveira                                                | [@lauroolim](https://github.com/lauroolim)               |
-| Lucas Carvalho da Luz Mour                                    | [@henrique-noronha](https://github.com/henrique-noronha) |
-| Almir Daniel Melo Coelho                                      | [@SidyDev-AI](https://github.com/SidyDev-AI)             |
-| João Pedro Ribeiro Dias Moraes                                | [@Vicentolah17](https://github.com/Vicentolah17)         |
-| Tharcio Santana                                               | [@Andr206](https://github.com/Andr206)                   |
+| Henrique Noronha                                              | [@henrique-noronha](https://github.com/henrique-noronha) |
+| José Borges                                                   | [@SidyDev-AI](https://github.com/SidyDev-AI)             |
+| Vicente                                                       | [@Vicentolah17](https://github.com/Vicentolah17)         |
+| André Victor                                                  | [@Andr206](https://github.com/Andr206)                   |
 | [Link do repositório](https://github.com/lauroolim/mundo-pet) |                                                          |
 
 <hr>
