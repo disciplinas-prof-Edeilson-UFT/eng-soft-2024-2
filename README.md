@@ -135,7 +135,7 @@ O projeto consiste em um site de aluguel de carros acessível a diferentes perfi
 ![TavolaRedonda](https://github.com/user-attachments/assets/2b6aeb7b-abda-4dab-81fb-d3cbf8b3ac5e)
 
 #### Descrição do produto:
-Távola Redonda é um projeto destinado ao público de pessoas que jogam RPG (Roleplay gaming) será uma alternativa mais fácil e pratica para a criação de mesas e personagens para os jogadores, reunindo alguns sistemas, facilitando assim, o decorrer de criação pre-campanha, que costuma ser a parte mais demorada de um RPG.
+Távola Redonda é um projeto destinado ao público de pessoas que jogam RPG (Roleplay gaming) será uma alternativa mais fácil e pratica para a criação de mesas e personagens para os jogadores, reunindo alguns sistemas, facilitando assim, o decorrer de criação pre-campanha, que costuma ser a parte mais demorada de um RPG. [Link do repositório](https://github.com/comatic0/tavola-redonda) 
 </br>
 </br>
 | Nome                                                          | Github                                                   |
@@ -145,5 +145,3 @@ Távola Redonda é um projeto destinado ao público de pessoas que jogam RPG (Ro
 | Vitor Leal Ferreira                                           | [@squidleeal](https://github.com/squidleeal)             |
 | Thiago Soares Ribeiro Nunes de Carvalho                       | [@Soares314](https://github.com/Soares314)               |
 | Emanuel Badaró Fonseca                                        | [@AlunEmanuel](https://github.com/AlunEmanuel)           |
-| [Link do repositório](https://github.com/comatic0/tavola-redonda) |                                                      |
-
