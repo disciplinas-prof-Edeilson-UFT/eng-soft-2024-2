@@ -62,7 +62,13 @@ Desenvolver uma plataforma de reserva de restaurantes que conecta estabeleciment
 | Jonatas de Sousa Madeira           | [MellloJ](https://github.com/MellloJ)                        |
 
 ## Repositório:
-[GAMYX - Ir ao Repositório](https://github.com/jessilver/Engenharia-de-Software-Gamyx)
+| Links Uteis                                                                                |
+|------------------------------------------------------------------------------------------- |
+| [GAMYX - Ir ao Repositório](https://github.com/jessilver/Engenharia-de-Software-Gamyx)     |
+| [Landing Page](https://arthutstuts96.github.io/Gamyx-Landing-Page/) |
+| [Versão Final](https://github.com/jessilver/Engenharia-de-Software-Gamyx/releases/tag/v5.0.2) |
+| [Vídeo do produto](https://drive.google.com/file/d/1zzN2Ed74XRvOIn-9uZmIOCYmXdEWzvmk/view) | 
+| [Apresentação Final](https://fuft-my.sharepoint.com/:p:/g/personal/jesse_nunes_uft_edu_br/EWKpkAIQMEJFirf7LtkoJvQBIGge_F9WXQlFviGslJsraw?e=hVXePc) |
 
 <hr>
 
