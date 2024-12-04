@@ -148,3 +148,8 @@ Távola Redonda é um projeto destinado ao público de pessoas que jogam RPG (Ro
 | Vitor Leal Ferreira                                           | [@squidleeal](https://github.com/squidleeal)             |
 | Thiago Soares Ribeiro Nunes de Carvalho                       | [@Soares314](https://github.com/Soares314)               |
 | Emanuel Badaró Fonseca                                        | [@AlunEmanuel](https://github.com/AlunEmanuel)           |
+| [Link do repositório](https://github.com/comatic0/tavola-redonda) |                                            |
+| [Acesse aqui a Landing Page do projeto](https://comatic0.github.io/tavola-redonda-landingpage/) |                                   | 
+| [Acesse aqui o vídeo de apresentação](https://github.com/comatic0/tavola-redonda/blob/main/apresentacao.mp4)|           |
+| [Acesse aqui a Apresentação final](https://github.com/comatic0/tavola-redonda/blob/main/apresentacao%20final.pdf) |
+| [Instalar versão final do projeto](https://github.com/comatic0/tavola-redonda/releases/tag/v6.0.0)|              |
