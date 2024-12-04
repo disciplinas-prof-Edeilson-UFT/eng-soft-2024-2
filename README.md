@@ -22,9 +22,9 @@ Desenvolver uma plataforma de reserva de restaurantes que conecta estabeleciment
 
 ### Grupo 2:
 #### Descrição
-<img src="https://media.discordapp.net/attachments/1283862353993138216/1283862418262327350/GreenBoard_20240901_191003_0000.png?ex=66e4898d&is=66e3380d&hm=a481fa88c0f1671f93fc5308ab012985ecf22e6af21d1e218627c3c1784cc9b1&=&format=webp&quality=lossless" alt="Logo" width="250" height="250"/>
 
-GreenBoard é o projeto de um de quadro Kanban simples e mínimo para de fato aumentar sua produtividade.
+| <img src="https://github.com/user-attachments/assets/ecedcbca-1f84-43ea-9bab-7d851478dd18" width="1500"/> | <h2><a href="https://github.com/jessilver/Engenharia-de-Software-Gamyx">GreenBoard</a></h2><br> GreenBoard é o projeto de um de quadro Kanban simples e mínimo para de fato aumentar sua produtividade. <br> <h4><a href="https://engsoftkanban.github.io">Landing Page</a></h4> <h4><a href="https://github.com/EngSoftKanban/GreenBoard/blob/feature/main/resources/v%C3%ADdeo/V%C3%ADdeo%20de%20Demonstra%C3%A7%C3%A3o.mp4">Vídeo</a></h4> <h4><a href="https://github.com/EngSoftKanban/GreenBoard/releases/latest">Versão atual</a></h4> |
+| ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 #### Equipe
 | Nome | Github |
