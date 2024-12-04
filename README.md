@@ -115,7 +115,6 @@ O Mundo Pet consiste em uma plataforma online para petshops, com funcionalidades
 </br>
 </br>
 
-
 | Nome                                                                                                | Github                                                   |
 | --------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
 | Lauro Oliveira                                                                                      | [@lauroolim](https://github.com/lauroolim)               |
@@ -127,6 +126,7 @@ O Mundo Pet consiste em uma plataforma online para petshops, com funcionalidades
 | [Apresentação Final](https://www.canva.com/design/DAGYMffPSoE/OmJMecqRrYGDTgJ5syIy-Q/edit)          |                                                          |
 | [Landing Page](https://lauroolim.github.io/mundo-pet-page/)                                         |                                                          |
 | [Link do vídeo](https://drive.google.com/file/d/16zZKk5AUkER0qJNWFy5RrRreYBuZZEZt/view?usp=sharing) |                                                          |
+| [Versão final do projeto](https://github.com/lauroolim/mundo-pet/releases/tag/2.2.0)                |                                                          |
 
 <hr>
 
