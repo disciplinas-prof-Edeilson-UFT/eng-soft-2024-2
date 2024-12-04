@@ -81,7 +81,7 @@ Desenvolver uma plataforma de reserva de restaurantes que conecta estabeleciment
 - Vídeo de Apresentação: https://www.youtube.com/watch?si=WiRjOf--jtKJfWBN&v=DO1ZC00pn-g&feature=youtu.be
 - Documentação do Projeto: https://github.com/lu1pinho/expressproject/blob/develop/Documentação.md
 - Landing Page do Projeto: https://lu1pinho.github.io/expressproject/
-- Última Release: 
+- Última Release: https://github.com/lu1pinho/expressproject/releases/tag/V2.0
 
 
 ## Repositório:
