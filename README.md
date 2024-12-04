@@ -140,7 +140,7 @@ LoCar é uma plataforma online projetada para simplificar o aluguel de carros, a
 | [Link do repositório](https://github.com/joaovitro99/Aluguel-de-carros.git) |                                            |
 | [Acesse aqui a Landing Page do projeto](https://swampertian.github.io/Landing-Page/) |                                   | 
 | [Acesse aqui o vídeo de apresentação](https://drive.google.com/file/d/1ovdHVbo7fpbZHQ3vepduI2LcFXOTM5bm/view)|           |
-| [Acesse aqui a Apresentação final](https://www.canva.com/design/DAGXtvQPbpk/wajP5qEYpfII4jJGA8xXcg/edit?utm_content=DAGXtvQPbpk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton.com) |
+| [Acesse aqui a Apresentação final](https://github.com/joaovitro99/Aluguel-de-carros/blob/main/docs/Apresenta%C3%A7%C3%A3o%20FINAL%20-%20ENG.%20DE%20SOFTWARE_compressed.pdf) |
 | [Instalar versão final do projeto](https://github.com/joaovitro99/Aluguel-de-carros/releases/tag/v2.2.0)|              |
 <hr>
 
