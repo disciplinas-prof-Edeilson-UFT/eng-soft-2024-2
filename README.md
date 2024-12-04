@@ -77,7 +77,10 @@ Desenvolver uma plataforma de reserva de restaurantes que conecta estabeleciment
 | <img src="https://github.com/dallylademoraes/Express-loja-online/blob/main/fotos/logo-png.png" alt="Logo do Projeto" width="1500"/> | <h2><a href="https://github.com/lu1pinho/expressproject">Express.com - Marketplace</a></h2><br> O **Express.com** é uma plataforma inovadora focada em tecnologia, projetada para facilitar a compra e venda de produtos eletrônicos. Com uma interface moderna e intuitiva, o projeto oferece ferramentas avançadas que garantem uma experiência de compra segura e eficiente para os usuários. |
 | ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-
+## Links Úteis:
+- Vídeo de Apresentação: https://www.youtube.com/watch?si=WiRjOf--jtKJfWBN&v=DO1ZC00pn-g&feature=youtu.be
+- Documentação do Projeto: https://github.com/lu1pinho/expressproject/blob/develop/Documentação.md
+- Landing Page do Projeto: https://lu1pinho.github.io/expressproject/
 
 
 ## Repositório:
