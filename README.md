@@ -117,10 +117,10 @@ O Mundo Pet consiste em uma plataforma online para petshops, com funcionalidades
 <hr>
 
 ### Grupo 7: 
+![LoCar Logo]()
 
 #### Descrição do projeto:
-O projeto consiste em um site de aluguel de carros acessível a diferentes perfis de clientes, como turistas, moradores locais e empresas. O site permitirá que os usuários atuem em três papéis distintos: cliente, funcionário e administrador. Cada papel terá permissões e atividades específicas, incluindo alugar veículos, gerenciar a frota, administrar aluguéis e fornecer feedbacks. O sistema buscará oferecer uma experiência de usuário eficiente e intuitiva, suportada por uma arquitetura segura e escalável.
-
+LoCar é uma plataforma online projetada para simplificar o aluguel de carros, atendendo às necessidades de turistas, moradores locais e empresas. Com uma interface intuitiva e funcionalidades personalizadas, a plataforma permite que usuários desempenhem atividades específicas de acordo com seus papéis no sistema: cliente, funcionário ou administrador. Nosso objetivo é oferecer uma experiência eficiente, prática e adaptada a diferentes perfis de clientes.
 | Nome                                                          | Github                                                   |
 | ------------------------------------------------------------- | -------------------------------------------------------- |
 | Victhor Cabral Magalhães                                      | [@VicthorCM](https://github.com/VicthorCM)               |
