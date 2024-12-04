@@ -117,7 +117,7 @@ O Mundo Pet consiste em uma plataforma online para petshops, com funcionalidades
 <hr>
 
 ### Grupo 7: 
-![LoCar Logo]()
+
 
 #### Descrição do projeto:
 LoCar é uma plataforma online projetada para simplificar o aluguel de carros, atendendo às necessidades de turistas, moradores locais e empresas. Com uma interface intuitiva e funcionalidades personalizadas, a plataforma permite que usuários desempenhem atividades específicas de acordo com seus papéis no sistema: cliente, funcionário ou administrador. Nosso objetivo é oferecer uma experiência eficiente, prática e adaptada a diferentes perfis de clientes.
@@ -128,7 +128,10 @@ LoCar é uma plataforma online projetada para simplificar o aluguel de carros, a
 | João Vitor Reis Días                                          | [@joaovitro99](https://github.com/joaovitro99)           |
 | Mayconn Cardoso Soares                                        | [@Mayconncs](https://github.com/Mayconncs)               |
 | [Link do repositório](https://github.com/joaovitro99/Aluguel-de-carros.git) |                                            |
-
+| [Acesse aqui a Landing Page do projeto](https://swampertian.github.io/Landing-Page/) |                                   | 
+| [Acesse aqui o vídeo de apresentação](https://drive.google.com/file/d/1ovdHVbo7fpbZHQ3vepduI2LcFXOTM5bm/view)|           |
+| [Acesse aqui a Apresentação final](https://www.canva.com/design/DAGXtvQPbpk/wajP5qEYpfII4jJGA8xXcg/edit?utm_content=DAGXtvQPbpk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton.com) |
+| [Instalar versão final do projeto](https://github.com/joaovitro99/Aluguel-de-carros/releases/tag/v2.2.0)|              |
 <hr>
 
 ### Grupo 8: 
