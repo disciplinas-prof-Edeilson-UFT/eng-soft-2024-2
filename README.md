@@ -127,7 +127,7 @@ O Mundo Pet consiste em uma plataforma online para petshops, com funcionalidades
 <hr>
 
 ### Grupo 7: 
-
+<img src="https://github.com/user-attachments/assets/5ee031b5-8757-4431-992d-1ed7089071fd" width="400" height="400"/>
 
 #### Descrição do projeto:
 LoCar é uma plataforma online projetada para simplificar o aluguel de carros, atendendo às necessidades de turistas, moradores locais e empresas. Com uma interface intuitiva e funcionalidades personalizadas, a plataforma permite que usuários desempenhem atividades específicas de acordo com seus papéis no sistema: cliente, funcionário ou administrador. Nosso objetivo é oferecer uma experiência eficiente, prática e adaptada a diferentes perfis de clientes.
