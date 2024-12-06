@@ -115,18 +115,19 @@ O Mundo Pet consiste em uma plataforma online para petshops, com funcionalidades
 </br>
 </br>
 
-| Nome                                                                                                | Github                                                   |
-| --------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
-| Lauro Oliveira                                                                                      | [@lauroolim](https://github.com/lauroolim)               |
-| Henrique Noronha                                                                                    | [@henrique-noronha](https://github.com/henrique-noronha) |
-| José Borges                                                                                         | [@SidyDev-AI](https://github.com/SidyDev-AI)             |
-| Vicente                                                                                             | [@Vicentolah17](https://github.com/Vicentolah17)         |
-| André Victor                                                                                        | [@Andr206](https://github.com/Andr206)                   |
-| [Link do repositório](https://github.com/lauroolim/mundo-pet)                                       |                                                          |
-| [Apresentação Final](https://www.canva.com/design/DAGYMffPSoE/OmJMecqRrYGDTgJ5syIy-Q/edit)          |                                                          |
-| [Landing Page](https://lauroolim.github.io/mundo-pet-page/)                                         |                                                          |
-| [Link do vídeo](https://drive.google.com/file/d/16zZKk5AUkER0qJNWFy5RrRreYBuZZEZt/view?usp=sharing) |                                                          |
-| [Versão final do projeto](https://github.com/lauroolim/mundo-pet/releases/tag/2.2.0)                |                                                          |
+
+| Nome                                                                                                                                                              | Github                                                   |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
+| Lauro Oliveira                                                                                                                                                    | [@lauroolim](https://github.com/lauroolim)               |
+| Henrique Noronha                                                                                                                                                  | [@henrique-noronha](https://github.com/henrique-noronha) |
+| José Borges                                                                                                                                                       | [@SidyDev-AI](https://github.com/SidyDev-AI)             |
+| Vicente                                                                                                                                                           | [@Vicentolah17](https://github.com/Vicentolah17)         |
+| André Victor                                                                                                                                                      | [@Andr206](https://github.com/Andr206)                   |
+| [Link do repositório](https://github.com/lauroolim/mundo-pet)                                                                                                     |                                                          |
+| [Apresentação Final](https://github.com/disciplinas-prof-Edeilson-UFT/eng-soft-2024-2/blob/main/MundoPet/Mundo%20Pet%20-%20Apresenta%C3%A7%C3%A3o%20Final%20.pdf) |                                                          |
+| [Landing Page](https://lauroolim.github.io/mundo-pet-page/)                                                                                                       |                                                          |
+| [Link do vídeo](https://github.com/disciplinas-prof-Edeilson-UFT/eng-soft-2024-2/blob/main/MundoPet/MundoPet.mp4)                                                 |                                                          |
+| [Versão final do projeto](https://github.com/lauroolim/mundo-pet/releases/tag/2.2.0)                                                                              |                                                          |
 
 <hr>
 
